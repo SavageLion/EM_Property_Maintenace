@@ -1,0 +1,1 @@
+aws s3 cp /Users/cliff/github/EM_Property_Maintenace/ s3://prototype.infinityarc.net --recursive --profile s3u
